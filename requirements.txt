@@ -1,0 +1,46 @@
+# CoPEM Framework Requirements
+# Consensus-Driven Predictive Energy Management for AEB
+# Date: December 15, 2025
+
+# Core Dependencies
+torch>=2.0.1
+torchvision>=0.15.2
+numpy>=1.24.3
+scipy>=1.10.1
+
+# Deep Learning & Optimization
+tensorboard>=2.13.0
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# Data Processing
+pandas>=2.0.2
+h5py>=3.8.0
+tqdm>=4.65.0
+
+# Control & Optimization
+osqp>=0.6.3
+cvxpy>=1.3.2
+control>=0.9.4
+
+# Testing & Validation
+pytest>=7.3.1
+pytest-cov>=4.1.0
+
+# Utilities
+pyyaml>=6.0
+jsonschema>=4.17.3
+dataclasses-json>=0.5.9
+
+# Optional: Visualization
+plotly>=5.14.1
+dash>=2.11.0
+
+# Optional: Distributed Training
+ray[default]>=2.5.0
+
+# Development Tools
+black>=23.3.0
+flake8>=6.0.0
+mypy>=1.3.0
+
