@@ -309,7 +309,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ### Development Team
 
-This framework was developed by our research team at Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering from January 2024 to December 2025. All code was manually written and rigorously tested to ensure reproducibility and reliability.
+Developed at Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering (2024-2025).
 
 ---
 
