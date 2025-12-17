@@ -171,7 +171,7 @@ CoPEM-Framework/
 
 - ✅ **Professional Development**: All code written and documented by research team
 - ✅ **Consistent Dates**: All files dated December 15, 2025
-- ✅ **Author Attribution**: Placeholder for "[Your Names]" and "[Your Institution]"
+- ✅ **Author Attribution**: Placeholder for "DK" and "Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering"
 - ✅ **Complete Documentation**: All code includes comprehensive documentation
 - ✅ **Docstrings**: Professional documentation for all functions and classes
 - ✅ **Type Hints**: Proper typing throughout codebase
@@ -202,9 +202,9 @@ CoPEM-Framework/
 ### Required Updates Before Upload
 
 1. **Author Information**:
-   - [ ] Replace "[Your Names]" with actual author names
-   - [ ] Replace "[Your Institution]" with institution name
-   - [ ] Replace "[your.email@institution.edu]" with contact email
+   - [ ] Replace "DK" with actual author names
+   - [ ] Replace "Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering" with institution name
+   - [ ] Replace "david.ko@connect.polyu.hk" with contact email
 
 2. **Paper Information**:
    - [ ] Add journal name when accepted

@@ -9,9 +9,9 @@
 ### Step 1: Update Placeholders (2 min)
 ```bash
 # Find and replace in all files:
-[Your Names]              → Your actual names
-[Your Institution]        → Your institution name
-[your.email@institution.edu] → Your contact email
+DK              → Your actual names
+Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering        → Your institution name
+david.ko@connect.polyu.hk → Your contact email
 ```
 
 ### Step 2: Upload to GitHub (1 min)
@@ -60,9 +60,9 @@ git push -u origin main
 
 ## ✅ Pre-Upload Checklist
 
-- [ ] Replace `[Your Names]` in all files
-- [ ] Replace `[Your Institution]` in all files
-- [ ] Replace `[your.email@institution.edu]` in all files
+- [ ] Replace `DK` in all files
+- [ ] Replace `Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering` in all files
+- [ ] Replace `david.ko@connect.polyu.hk` in all files
 - [ ] Verify GitHub repo URL is correct
 - [ ] Check all dates are December 15, 2025
 

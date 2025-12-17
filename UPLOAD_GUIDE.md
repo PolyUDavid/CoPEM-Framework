@@ -32,7 +32,7 @@ git init
 
 # Configure user information
 git config user.name "[Your Name]"
-git config user.email "[your.email@institution.edu]"
+git config user.email "david.ko@connect.polyu.hk"
 ```
 
 ---
@@ -91,7 +91,7 @@ If you encounter authentication issues:
 **Option A: SSH Key**
 ```bash
 # Generate SSH key (if not exists)
-ssh-keygen -t ed25519 -C "[your.email@institution.edu]"
+ssh-keygen -t ed25519 -C "david.ko@connect.polyu.hk"
 
 # Add to ssh-agent
 eval "$(ssh-agent -s)"
@@ -188,7 +188,7 @@ See [README.md](https://github.com/PolyUDavid/CoPEM-Framework#quick-start)
 ```bibtex
 @article{copem2025,
   title={Nexus of Control: A Dynamic Consensus Framework for Energy-Positive Autonomous Emergency Braking},
-  author={[Your Names]},
+  author={DK},
   journal={[Journal Name]},
   year={2025},
   month={December}
@@ -303,5 +303,5 @@ Before announcing the release:
 
 **Upload Date**: December 15, 2025  
 **Repository**: https://github.com/PolyUDavid/CoPEM-Framework  
-**Maintained by**: [Your Names]
+**Maintained by**: DK
 

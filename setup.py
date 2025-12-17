@@ -28,8 +28,8 @@ def read_requirements():
 setup(
     name="copem-framework",
     version="1.0.0",
-    author="[Your Names]",
-    author_email="[your.email@institution.edu]",
+    author="DK",
+    author_email="david.ko@connect.polyu.hk",
     description="Consensus-Driven Predictive Energy Management for Energy-Positive AEB",
     long_description=read_readme(),
     long_description_content_type="text/markdown",

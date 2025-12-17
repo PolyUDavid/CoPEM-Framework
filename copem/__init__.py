@@ -11,14 +11,14 @@ Core Components:
 - Trust-Weighted Consensus: Byzantine fault-tolerant state estimation
 - HOCBF: High-Order Control Barrier Function safety filter
 
-Authors: [Your Names]
-Institution: [Your Institution]
+Authors: DK
+Institution: Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering
 Date: December 15, 2025
 Version: 1.0.0
 """
 
 __version__ = "1.0.0"
-__author__ = "[Your Names]"
+__author__ = "DK"
 __date__ = "December 15, 2025"
 
 from copem.api.copem_api import (

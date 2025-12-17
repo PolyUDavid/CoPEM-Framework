@@ -7,7 +7,7 @@
 **Official Implementation** of the paper:
 
 > **"Nexus of Control: A Dynamic Consensus Framework for Energy-Positive Autonomous Emergency Braking"**  
-> *Authors: [Your Names]*  
+> *Authors: DK*  
 > *Submitted to: [Journal Name]*  
 > *Date: December 15, 2025*
 
@@ -287,7 +287,7 @@ If you use this code in your research, please cite our paper:
 ```bibtex
 @article{copem2025,
   title={Nexus of Control: A Dynamic Consensus Framework for Energy-Positive Autonomous Emergency Braking},
-  author={[Your Names]},
+  author={DK},
   journal={[Journal Name]},
   year={2025},
   month={December},
@@ -309,7 +309,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ### Development Team
 
-This framework was developed by our research team at [Your Institution] from January 2024 to December 2025. All code was manually written and rigorously tested to ensure reproducibility and reliability.
+This framework was developed by our research team at Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering from January 2024 to December 2025. All code was manually written and rigorously tested to ensure reproducibility and reliability.
 
 ---
 
@@ -317,7 +317,7 @@ This framework was developed by our research team at [Your Institution] from Jan
 
 For questions, issues, or collaboration opportunities:
 
-- **Email**: [your.email@institution.edu]
+- **Email**: david.ko@connect.polyu.hk
 - **Project Page**: [https://your-project-page.com]
 - **Issues**: [GitHub Issues](https://github.com/PolyUDavid/CoPEM-Framework/issues)
 

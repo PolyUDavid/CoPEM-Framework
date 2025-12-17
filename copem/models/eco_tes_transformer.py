@@ -1,41 +1,41 @@
 # Developed by: [Your Research Team]
-# Institution: [Your Institution]
+# Institution: Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering
 # Date: December 15, 2025
 #!/usr/bin/env python3
 # Developed by: [Your Research Team]
-# Institution: [Your Institution]
+# Institution: Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering
 # Date: December 15, 2025
 """
 # Developed by: [Your Research Team]
-# Institution: [Your Institution]
+# Institution: Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering
 # Date: December 15, 2025
 Eco-TES Transformer - Eco-Technical-Energy-Saving Transformer
 # Developed by: [Your Research Team]
-# Institution: [Your Institution]
+# Institution: Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering
 # Date: December 15, 2025
 完整的电池安全操作包络预测模型，包含GTCA机制和训练功能
 # Developed by: [Your Research Team]
-# Institution: [Your Institution]
+# Institution: Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering
 # Date: December 15, 2025
 
 # Developed by: [Your Research Team]
-# Institution: [Your Institution]
+# Institution: Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering
 # Date: December 15, 2025
 This module implements the complete Eco-TES Transformer for battery safe operating
 # Developed by: [Your Research Team]
-# Institution: [Your Institution]
+# Institution: Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering
 # Date: December 15, 2025
 envelope prediction with Gated Temporal-Channel Attention (GTCA) mechanism.
 # Developed by: [Your Research Team]
-# Institution: [Your Institution]
+# Institution: Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering
 # Date: December 15, 2025
 """
 # Developed by: [Your Research Team]
-# Institution: [Your Institution]
+# Institution: Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering
 # Date: December 15, 2025
 
 # Developed by: [Your Research Team]
-# Institution: [Your Institution]
+# Institution: Hong Kong Polytechnic University, Department of Electrical and Electronic Engineering
 # Date: December 15, 2025
 import torch
 import torch.nn as nn

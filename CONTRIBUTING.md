@@ -116,5 +116,5 @@ Be respectful and constructive in all interactions.
 ---
 
 **Date**: December 15, 2025  
-**Maintained by**: [Your Names]
+**Maintained by**: DK
 
