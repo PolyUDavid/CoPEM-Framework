@@ -9,8 +9,8 @@ This directory contains all experimental data used in the paper "Nexus of Contro
 ```
 data/
 ├── README.md                                  # This file
-└── paper_data/                                # Published paper data
-    ├── copem_paper_validated_results.json    # ⭐ Main results (matches paper)
+└── paper_data/                                # Experimental data
+    ├── copem_paper_results.json              # ⭐ Main results
     ├── copem_complete_experiment_results_20250714_151845.json
     ├── copem_case3_fleet_cooperative_results_20250714_172108.json
     └── copem_integrated_experiment_results_20250714_172137.json
@@ -20,7 +20,7 @@ data/
 
 ## ⭐ Primary Data File
 
-### `copem_paper_validated_results.json`
+### `copem_paper_results.json`
 
 **Main experimental results from the paper.**
 
@@ -93,13 +93,13 @@ Contains:
 
 ### For Reproducing Paper Results
 
-**Use**: `copem_paper_validated_results.json`
+**Use**: `copem_paper_results.json`
 
 ```python
 import json
 
 # Load paper-validated results
-with open('data/paper_data/copem_paper_validated_results.json', 'r') as f:
+with open('data/paper_data/copem_paper_results.json', 'r') as f:
     results = json.load(f)
 
 # Access core achievements
@@ -167,7 +167,7 @@ for attack_level in ['0%', '16.7%', '33.3%', '50.0%']:
 - Measured as: `E_recovered / E_total_braking`
 - Weighted average across all Euro NCAP scenarios
 - Accounts for battery thermal limits (Eco-TES predictions)
-- Validated against 1050+ individual test runs
+- Based on 1050+ individual test runs
 
 **187.9% Fleet Energy Improvement**:
 - Improvement vs. non-cooperative baseline
