@@ -98,7 +98,7 @@ Contains:
 ```python
 import json
 
-# Load paper-validated results
+# Load paper results
 with open('data/paper_data/copem_paper_results.json', 'r') as f:
     results = json.load(f)
 
